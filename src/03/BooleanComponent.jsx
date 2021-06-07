@@ -12,4 +12,4 @@ class BooleanComponent extends Component {
     }
 }
 
-export default BooleanComponent;
+export default BooleanComponent;    
